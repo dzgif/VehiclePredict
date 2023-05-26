@@ -1,2 +1,5 @@
 # Deep Learning Task - Andi Hendra, S.Si., M.Kom.
-Vehicle Type Predict Using Manual Model VGG16
+ Predict Using Manual Model VGG16
+ 
+ Nama : Fajar Dzulnufrie Hafriadi
+ Nim  : F 551 20 089
