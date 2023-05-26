@@ -3,3 +3,10 @@
  
  Nama : Fajar Dzulnufrie Hafriadi <br>
  Nim  : F 551 20 089
+ 
+ Dataset :
+ Vehicle Dataset : 
+ https://www.kaggle.com/datasets/whoscryinginyourroom/vehicle-datasets
+ 
+ Jeruk Dataset :
+ https://www.kaggle.com/datasets/whoscryinginyourroom/dataset-jeruk
